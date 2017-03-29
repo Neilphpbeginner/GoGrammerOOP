@@ -1,0 +1,21 @@
+{
+    "name": "vendor/code-colledge-project",
+    "description": "Description of project Code Colledge Project.",
+    "authors": [
+        {
+            "name": "neil",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+    "google/apiclient": "^2.0"
+
+    },
+    "web":{"client_id":"818821389836-i2d82q6450tmplufrq6ulqrsgeoc9cmp.apps.googleusercontent.com","project_id":"nodal-seer-158014","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://accounts.google.com/o/oauth2/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"0d2X-D_xcY2GXdd3NZ5Pee0K","redirect_uris":["http://localhost:8080","http://localhost:8080/neilyoutube.php"]}
+
+
+
+
+
+}
+

@@ -1,0 +1,118 @@
+
+
+{
+ "kind": "youtube#subscriptionListResponse",
+ "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Lmj0XS0pvAPdZRuySsvMuaOPB6U\"",
+ "nextPageToken": "CAUQAA",
+ "pageInfo": {
+  "totalResults": 16,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#subscription",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ACEtEjS7cRka6rGYOeEnasxE6_A\"",
+   "id": "FP26XPjZU_CAxW9K9E0AAoM9BjTSpwowMaj18nzembM",
+   "subscriberSnippet": {
+    "title": "Neil Lemmer",
+    "description": "",
+    "channelId": "UCEQvY_deeNuxpg44Q4GVEJw",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    }
+   }
+  },
+  {
+   "kind": "youtube#subscription",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/XsM1djGhYeO8E1_F9fV1sKudnS8\"",
+   "id": "FP26XPjZU_CAxW9K9E0AAuhLJXfqVrnHOC4CFhdYoxw",
+   "subscriberSnippet": {
+    "title": "Neil Lemmer",
+    "description": "",
+    "channelId": "UCEQvY_deeNuxpg44Q4GVEJw",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    }
+   }
+  },
+  {
+   "kind": "youtube#subscription",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/QWcA-ro6tJBbRuJfCNxgHZwJD8A\"",
+   "id": "FP26XPjZU_CAxW9K9E0AAnIpW_P1rZu5-omAjPW3zQk",
+   "subscriberSnippet": {
+    "title": "Neil Lemmer",
+    "description": "",
+    "channelId": "UCEQvY_deeNuxpg44Q4GVEJw",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    }
+   }
+  },
+  {
+   "kind": "youtube#subscription",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/55Fmq61_X-Jl1mHOaxOTEA_d3OA\"",
+   "id": "FP26XPjZU_CAxW9K9E0AAtuT4Ioups7E9a1uLESE7rg",
+   "subscriberSnippet": {
+    "title": "Neil Lemmer",
+    "description": "",
+    "channelId": "UCEQvY_deeNuxpg44Q4GVEJw",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    }
+   }
+  },
+  {
+   "kind": "youtube#subscription",
+   "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/dB3RWq6KH8cqbPnfBPpI11Ea9l4\"",
+   "id": "FP26XPjZU_CAxW9K9E0AAgIiLGujQ7baHm5xjb3UEDs",
+   "subscriberSnippet": {
+    "title": "Neil Lemmer",
+    "description": "",
+    "channelId": "UCEQvY_deeNuxpg44Q4GVEJw",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-wnaACvtd1x4/AAAAAAAAAAI/AAAAAAAAAAA/aqUxTY0k_6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    }
+   }
+  }
+ ]
+}

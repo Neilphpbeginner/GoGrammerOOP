@@ -1,0 +1,134 @@
+object(SimpleXMLElement)#1 (6) {
+  ["link"]=>
+  array(2) {
+    [0]=>
+    object(SimpleXMLElement)#2 (1) {
+      ["@attributes"]=>
+      array(2) {
+        ["rel"]=>
+        string(4) "self"
+        ["href"]=>
+        string(75) "http://www.youtube.com/feeds/videos.xml?channel_id=UCL8mk53VPSk5tKXixJq-FTA"
+      }
+    }
+    [1]=>
+    object(SimpleXMLElement)#3 (1) {
+      ["@attributes"]=>
+      array(2) {
+        ["rel"]=>
+        string(9) "alternate"
+        ["href"]=>
+        string(55) "http://www.youtube.com/channel/UCL8mk53VPSk5tKXixJq-FTA"
+      }
+    }
+  }
+  ["id"]=>
+  string(35) "yt:channel:UCL8mk53VPSk5tKXixJq-FTA"
+  ["title"]=>
+  string(16) "aliensabductedme"
+  ["author"]=>
+  object(SimpleXMLElement)#4 (2) {
+    ["name"]=>
+    string(16) "aliensabductedme"
+    ["uri"]=>
+    string(55) "http://www.youtube.com/channel/UCL8mk53VPSk5tKXixJq-FTA"
+  }
+  ["published"]=>
+  string(25) "2008-07-24T15:50:51+00:00"
+  ["entry"]=>
+  array(3) {
+    [0]=>
+    object(SimpleXMLElement)#5 (6) {
+      ["id"]=>
+      string(20) "yt:video:PH2UKgqpYjw"
+      ["title"]=>
+      string(45) "Dog Rides in UFO Hovering Near San Francisco!"
+      ["link"]=>
+      object(SimpleXMLElement)#8 (1) {
+        ["@attributes"]=>
+        array(2) {
+          ["rel"]=>
+          string(9) "alternate"
+          ["href"]=>
+          string(42) "http://www.youtube.com/watch?v=PH2UKgqpYjw"
+        }
+      }
+      ["author"]=>
+      object(SimpleXMLElement)#9 (2) {
+        ["name"]=>
+        string(16) "aliensabductedme"
+        ["uri"]=>
+        string(55) "http://www.youtube.com/channel/UCL8mk53VPSk5tKXixJq-FTA"
+      }
+      ["published"]=>
+      string(25) "2008-11-20T04:08:43+00:00"
+      ["updated"]=>
+      string(25) "2016-12-25T19:12:57+00:00"
+    }
+    [1]=>
+    object(SimpleXMLElement)#6 (6) {
+      ["id"]=>
+      string(20) "yt:video:8-2U4GYIeaE"
+      ["title"]=>
+      string(30) "UFO Spotted Near Eiffel Tower!"
+      ["link"]=>
+      object(SimpleXMLElement)#9 (1) {
+        ["@attributes"]=>
+        array(2) {
+          ["rel"]=>
+          string(9) "alternate"
+          ["href"]=>
+          string(42) "http://www.youtube.com/watch?v=8-2U4GYIeaE"
+        }
+      }
+      ["author"]=>
+      object(SimpleXMLElement)#8 (2) {
+        ["name"]=>
+        string(16) "aliensabductedme"
+        ["uri"]=>
+        string(55) "http://www.youtube.com/channel/UCL8mk53VPSk5tKXixJq-FTA"
+      }
+      ["published"]=>
+      string(25) "2008-11-20T04:00:08+00:00"
+      ["updated"]=>
+      string(25) "2016-12-25T19:13:25+00:00"
+    }
+    [2]=>
+    object(SimpleXMLElement)#7 (6) {
+      ["id"]=>
+      string(20) "yt:video:rXZOrGUZVa0"
+      ["title"]=>
+      string(20) "Pug Abducted By UFO!"
+      ["link"]=>
+      object(SimpleXMLElement)#8 (1) {
+        ["@attributes"]=>
+        array(2) {
+          ["rel"]=>
+          string(9) "alternate"
+          ["href"]=>
+          string(42) "http://www.youtube.com/watch?v=rXZOrGUZVa0"
+        }
+      }
+      ["author"]=>
+      object(SimpleXMLElement)#9 (2) {
+        ["name"]=>
+        string(16) "aliensabductedme"
+        ["uri"]=>
+        string(55) "http://www.youtube.com/channel/UCL8mk53VPSk5tKXixJq-FTA"
+      }
+      ["published"]=>
+      string(25) "2008-11-20T03:51:55+00:00"
+      ["updated"]=>
+      string(25) "2017-01-13T12:52:08+00:00"
+    }
+  }
+}
+
+
+
+Dog Rides in UFO Hovering Near San Francisco!
+0 minutes, 0 seconds
+	UFO Spotted Near Eiffel Tower!
+0 minutes, 0 seconds
+	Pug Abducted By UFO!
+0 minutes, 0 seconds
